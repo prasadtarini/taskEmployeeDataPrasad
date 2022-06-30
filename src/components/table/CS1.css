@@ -1,0 +1,66 @@
+.cont{
+    padding: 5px;
+    /* background-color: antiquewhite; */
+}
+.cont1{
+    /* margin-left: 10%;
+    margin-right: 10%; */
+    padding: 5px; 
+    background-color: antiquewhite;
+    height: 80px;
+}
+
+.head{
+
+    /* text-align: center; */
+    /* margin-left: 35%; */
+    font-size: 30px;
+    color: chocolate;
+    font-weight: bold; 
+    margin-top: 10px;
+}
+.cont2{
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 5px; 
+    margin-top: 30px;
+}
+.butt{
+    padding: 5px;
+    background-color: darkorange;
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 5px;
+    margin-left: 45%;
+    margin-top: 10px; 
+    height: 50px;
+}
+.butt{
+    transition-duration: 0.4s;
+}
+.butt:hover{
+    background-color: #4CAF50; /* Green */
+    color: white;
+}
+.head1{
+    font-style: italic;
+    font-size: 20px;
+    color: darkorange;
+    margin-bottom: 20px; 
+    font-weight: bold;
+}
+.tab{
+    margin-left: 11%;
+}
+.botcont{
+    margin-top: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 5px;
+    border-color: black;
+    padding: 10px; 
+    background-image: url("https://vetsez.com/wp-content/uploads/2020/03/AdobeStock_291217289-copy.jpg");
+    background-size: cover; 
+}
